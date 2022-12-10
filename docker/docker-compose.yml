@@ -33,4 +33,4 @@ services:
     environment:
       - GRAPHOUSE_URL=http://graphouse:2005
     ports:
-      - "8080:80"
+      - "8095:80"
